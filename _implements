@@ -90,14 +90,7 @@ printf("lol");
     int score,total=0;
    
     random=rand()%3;
-    if(random==0 && choose=='R')
-    {
-        printf("Computer= Rock\n");
-        printf("TIE!\n");
-        system("COLOR 3");
-        total=score;
-        printf("%d score: ",total);
-    }
+
     if(random==1 && choose=='R')
     {
         printf("Computer= Paper\n");
