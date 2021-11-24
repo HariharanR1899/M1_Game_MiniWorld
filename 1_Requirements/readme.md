@@ -1,5 +1,5 @@
 # Requirements
-##  INTRODUCTION
+## INTRODUCTION
  The project what i have done is a Game based project and named it as MiniWorld.where players will select a game.There are two games in it.One is Rock Paper Scissor and another one is Guess the number.
 ##  Research
 ### objective
