@@ -1,14 +1,14 @@
 # Requirements
- ##  INTRODUCTION
+##  INTRODUCTION
  The project what i have done is a Game based project and named it as MiniWorld.where players will select a game.There are two games in it.One is Rock Paper Scissor and another one is Guess the number.
 ##  Research
 ### objective
 Both the games that are in the project are based on the random function.where the system generates a random number and the user plays the game based on it.
 
 ## Features
-- Where players can switch between the games 
-- Attractive background and font colours inside the game
-- Startergy plan is required in guess the number game 
+-   Where players can switch between the games 
+-   Attractive background and font colours inside the game
+-   Startergy plan is required in guess the number game 
 
 ## 4W's 1H
 
