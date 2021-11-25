@@ -1,6 +1,9 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8299db66fb704dc18c38a89716f3445e)](https://www.codacy.com/gh/HariharanR1899/M1_Game_MiniWorld/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HariharanR1899/M1_Game_MiniWorld&amp;utm_campaign=Badge_Grade)
 [![C/C++ CI](https://github.com/HariharanR1899/M1_Game_MiniWorld/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/HariharanR1899/M1_Game_MiniWorld/actions/workflows/c-cpp.yml)
 # M1_Game_MiniWorld
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a247e10cbff249dfb9b608ba8533842c)](https://app.codacy.com/gh/HariharanR1899/M1_Game_MiniWorld?utm_source=github.com&utm_medium=referral&utm_content=HariharanR1899/M1_Game_MiniWorld&utm_campaign=Badge_Grade_Settings)
+
 my project is based on game.where players can choose from two games that is present.Both games have common algorithm that is using random function.
 # Requirements
  ##  INTRODUCTION
