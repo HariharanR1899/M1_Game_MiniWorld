@@ -1,3 +1,4 @@
+[![C/C++ CI](https://github.com/HariharanR1899/M1_Game_MiniWorld/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/HariharanR1899/M1_Game_MiniWorld/actions/workflows/c-cpp.yml)
 # Requirements
 ## INTRODUCTION
  The project what i have done is a Game based project and named it as MiniWorld.where players will select a game.There are two games in it.One is Rock Paper Scissor and another one is Guess the number.
