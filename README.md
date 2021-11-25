@@ -1,5 +1,8 @@
 
 # M1_Game_MiniWorld
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a247e10cbff249dfb9b608ba8533842c)](https://app.codacy.com/gh/HariharanR1899/M1_Game_MiniWorld?utm_source=github.com&utm_medium=referral&utm_content=HariharanR1899/M1_Game_MiniWorld&utm_campaign=Badge_Grade_Settings)
+
 my project is based on game.where players can choose from two games that is present.Both games have common algorithm that is using random function.
 # Requirements
  ##  INTRODUCTION
